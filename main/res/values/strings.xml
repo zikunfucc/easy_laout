@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">easy_layout</string>
+    <string name="name">姓名: </string>
+    <string name="age">年龄: </string>
+    <string name="sex">性别: </string>
+    <string name="direction">研究方向: </string>
+    <string name="telephone">联系电话: </string>
+    <string name="number">18888888888</string>
+    <string name="photo">照片</string>
+</resources>
